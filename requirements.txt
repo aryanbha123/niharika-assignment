@@ -3,3 +3,15 @@ uvicorn[standard]
 psycopg2-binary
 passlib[bcrypt]
 python-jose[cryptography]
+python-multipart
+sqlalchemy
+
+# Added for Agentic Workflow
+langchain
+langgraph
+langchain-openai
+langchain-community
+pgvector
+langfuse
+sse-starlette
+tiktoken
